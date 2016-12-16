@@ -1,0 +1,8 @@
+{
+	"Identifier":"1d237975-c80c-4706-b2f7-86917d05aa81"	, 
+	"Time":"12/16/2016 3:20:59 PM"	, 
+	"Group":152058	, 
+	"DataRecordId":"bfe9a72b-b802-4a10-b4df-e8903463dd81"	, 
+	"Type":2	, 
+	"RecordType":"uFrame.ECS.Editor.ModuleNode, Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"	, 
+	"Data":"{\r\n\t\"Order\":0\t, \r\n\t\"GraphId\":\"8cae57b3-37fe-4f1c-90ce-a604846c1e1b\"\t, \r\n\t\"Identifier\":\"bfe9a72b-b802-4a10-b4df-e8903463dd81\"\t, \r\n\t\"Expanded\":false}\r\n"}
